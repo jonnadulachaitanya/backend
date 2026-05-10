@@ -13,7 +13,7 @@ pipeline {
         account_id = '596059882666'
         region = 'us-east-1'
         project = 'expense'
-        environment = 'dev'
+        environment = 'development'
         component = 'backend'
     }
     stages {
